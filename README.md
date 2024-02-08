@@ -88,9 +88,9 @@ The project provides insights into predicting MBTI personality types based on te
 - xgboost
 - nltk
 
-## Contributing
-
-Feel free to contribute to the project by opening issues or submitting pull requests.
+# Made and designed by- Mayank Singh
+# LinkedIn- https://www.linkedin.com/in/mayank-kumar-singh-a203141b9/
+# Contact Info- mayanksingh9451@gmail.com / +919170898012
 
 ## License
 
